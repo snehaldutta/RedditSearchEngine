@@ -102,7 +102,7 @@ This will start a local server. Open the URL provided in the terminal (typically
 ```bash
 reddit-crawler/
 │
-├── app.py                # Main application file for Streamlit
+├── search_engine.py                # Main application file for Streamlit
 ├── config.py             # Configuration file for Reddit API credentials
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
